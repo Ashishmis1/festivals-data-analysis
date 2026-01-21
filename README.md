@@ -133,28 +133,27 @@ Promotions: Target married customers with special offers
 ## 👨‍💻 Author
 
 **Ashish**  
-*Aspiring Data Analyst | Python | Data Visualization*
-
+*Data Analyst | Python, Data Viz & Statistics*
 -  💼 **GitHub**: [@Ashishmis1](https://github.com/Ashishmis1)
 - 📧 **Email**: Available upon request
 - 🔗 **LinkedIn**: [Connect with me](https://linkedin.com/in/your-profile)
 
 
 ### 💡 About This Project
-This project showcases my ability to:
-- Perform end-to-end exploratory data analysis
-- Extract actionable business insights from raw data
-- Create compelling visualizations for stakeholder communication
-- Apply statistical techniques to real-world datasets
+**Why I built this:**
 
-**Open to Data Analyst opportunities!** Feel free to reach out.
+Started this project to understand how people shop during festivals. Worked with real sales data (~11K records) and honestly, it was messier than I expected. Spent a lot of time cleaning missing values and fixing data types, but that's where I learned the most.
 
-## 💡 Key Learnings
+The goal was simple - find out who's buying what, and see if there are any patterns that could help businesses make better decisions.
 
-- Gained hands-on experience with real-world messy data requiring extensive cleaning
-- Learned to identify and handle missing values, data type mismatches
-- Developed skills in creating meaningful business-focused visualizations
-- Practiced translating technical findings into actionable business recommendations
+Currently looking for data analyst roles. If you have any feedback on this project or want to connect, feel free to reach out.
+
+## 💭 What I Learned
+
+- **Data is always messy**: The dataset had 12 missing values in the Amount column and inconsistent data types. Had to drop those rows and convert types manually.
+- **Groupby is powerful**: Used it extensively to slice data by demographics. Really helped understand patterns across different customer segments.
+- **Visualization matters**: Tried different chart types - bar plots worked best for this categorical data. The graphs made it way easier to spot trends.
+- **Context is everything**: Raw numbers don't mean much without understanding the business context. Had to think about what insights would actually be useful for a business.
 
 
 ## 📄 License
